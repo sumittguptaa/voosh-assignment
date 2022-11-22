@@ -1,0 +1,11 @@
+.order-buttons{
+    margin: 6px;
+}
+.order-buttons-link{
+    margin-right: 50px;
+}
+.details{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+}
